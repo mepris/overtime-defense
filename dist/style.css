@@ -1,0 +1,1 @@
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#344d2a}#game{width:100vw;height:100dvh;outline:none;touch-action:none}#game canvas{display:block}#announcement{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
